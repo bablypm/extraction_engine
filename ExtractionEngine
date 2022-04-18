@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-18T08:12:54.994Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36" etag="9JpD66NbZS0VXqEtSKdj" version="17.4.5" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-18T08:28:42.205Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36" etag="Ui8P7EJT57JEEfzkCvF5" version="17.4.5" type="github">
   <diagram id="UA6y0Wg17tYqNZndRhXZ" name="Page-1">
     <mxGraphModel dx="1384" dy="1861" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -40,11 +40,14 @@
         <mxCell id="UHgJrKSBlFpEy5hmiDr8-33" value="Data Receiver" style="swimlane;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="UHgJrKSBlFpEy5hmiDr8-9">
           <mxGeometry x="50" y="20" width="160" height="123" as="geometry" />
         </mxCell>
+        <mxCell id="UHgJrKSBlFpEy5hmiDr8-42" value="&lt;ul&gt;&lt;li&gt;&lt;span&gt;Text, CSV, Xml&lt;/span&gt;&lt;br&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;	&lt;/span&gt;Decryption&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;" vertex="1" parent="UHgJrKSBlFpEy5hmiDr8-33">
+          <mxGeometry x="5" y="35" width="150" height="60" as="geometry" />
+        </mxCell>
         <mxCell id="UHgJrKSBlFpEy5hmiDr8-34" value="File Generator" style="swimlane;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="UHgJrKSBlFpEy5hmiDr8-9">
-          <mxGeometry x="260" y="20" width="190" height="141" as="geometry" />
+          <mxGeometry x="260" y="20" width="190" height="120" as="geometry" />
         </mxCell>
         <mxCell id="UHgJrKSBlFpEy5hmiDr8-41" value="&lt;ul&gt;&lt;li&gt;CSV, Excel&lt;/li&gt;&lt;li&gt;Xslt transformation&lt;/li&gt;&lt;li&gt;&lt;span&gt;&lt;/span&gt;PGP Encryption&lt;/li&gt;&lt;li&gt;&lt;span&gt;	&lt;/span&gt;FTP/sFTP transfer&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;" vertex="1" parent="UHgJrKSBlFpEy5hmiDr8-34">
-          <mxGeometry x="20" y="20" width="150" height="110" as="geometry" />
+          <mxGeometry x="20" y="20" width="150" height="90" as="geometry" />
         </mxCell>
         <mxCell id="UHgJrKSBlFpEy5hmiDr8-10" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="UHgJrKSBlFpEy5hmiDr8-2">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
